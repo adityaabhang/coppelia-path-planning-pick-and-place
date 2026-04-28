@@ -20,7 +20,7 @@ All motion is driven by a single Lua threaded script — no manual teach-pendant
 
 ## Demo
 
-`Lab3.mp4` — full simulation run of both pick-and-place tasks.
+'coppelia-path-planning-pick-and-place.mp4' — full simulation run of both pick-and-place tasks.
 
 ---
 
